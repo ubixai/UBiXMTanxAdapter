@@ -1,0 +1,6 @@
+framework module UBiXMTanxAdapter {
+  umbrella header "UBiXMTanxAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
