@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiXMTanxAdapter'
-  s.version          = '3.6.2.0'
+  s.version          = '3.6.5.0'
   s.summary          = 'UBiX聚合广告变现SDK Tanx Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
     'OTHER_LINK_FLAG' => '$(inherited) -ObjC' }
  
   
- s.dependency 'TanxSDK','3.6.2'
+ s.dependency 'TanxSDK','3.6.5'
  s.dependency 'UBiXMediationSDK'
  s.swift_version = '5.0'
 
