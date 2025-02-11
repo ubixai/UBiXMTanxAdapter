@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiXMTanxAdapter'
-  s.version          = '3.6.5.2'
+  s.version          = '3.6.5.3'
   s.summary          = 'UBiX聚合广告变现SDK Tanx Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
